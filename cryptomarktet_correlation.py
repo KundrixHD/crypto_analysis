@@ -4,7 +4,7 @@ import datetime as dt
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-currency = "USD"
+currency = "EUR"
 metric = "Close"
 
 start = dt.datetime(2018,1,1)
